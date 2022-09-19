@@ -1,4 +1,4 @@
-#1建立Pokemon的類別
+#1建立Pokemon的
 #2設定初始狀態
 #3設計方法(ex..attack,defence,cure.showinfo)
 class Pokemon:
